@@ -90,7 +90,13 @@ Rayfield:Notify({
 local Button = MainTab:CreateButton({
    Name = "⬆️ Infinite Jump",
    Callback = function()
-         loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/private/refs/heads/main/InfiniteJump?token=GHSAT0AAAAAADIKGNAL5Z4AP4WDAPCPZ53G2ELWUSQ"))()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/InfiniteJump"))()
+        Rayfield:Notify({
+   Title = "You now have Infinite Jump",
+   Content = "👑 Show Hub 👑",
+   Duration = 4,
+   Image = nil,
+})
    end,
 })
 
@@ -121,14 +127,26 @@ local Slider = MainTab:CreateSlider({
     local Button = MainTab:CreateButton({
    Name = "Fly Gui V3",
    Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/private/refs/heads/main/FlyGui?token=GHSAT0AAAAAADIKGNAL5OTLAOBDYCECXOYI2ELWR7A"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/FlyGui"))()
+        Rayfield:Notify({
+   Title = "You're now Flying!",
+   Content = "👑 Show Hub 👑",
+   Duration = 4,
+   Image = nil,
+})
     end,
 })
 
         local Button = MainTab:CreateButton({
    Name = "Become Transparent (RESET to be Normal)",
    Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/private/refs/heads/main/transparency_script?token=GHSAT0AAAAAADIKGNAL7MG5D6FPLWYJHUVK2ELWMYQ"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/transparency_script"))()
+        Rayfield:Notify({
+   Title = "You're now Invisible!",
+   Content = "👑 Show Hub 👑",
+   Duration = 4,
+   Image = nil,
+})
    end,
 })
 
