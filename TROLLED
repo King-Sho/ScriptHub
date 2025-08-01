@@ -248,6 +248,2506 @@ end
 
 chat("BALLS")
 
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("BALLS")
+
 if identifyexecutor and identifyexecutor():lower():find("Hydrogen") then
 else
 
