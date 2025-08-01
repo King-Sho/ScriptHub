@@ -155,7 +155,7 @@ local Slider = MainTab:CreateSlider({
 local TrollTab = Window:CreateTab("TROLLING", nil) -- Title, Image
 local TrollSection = TrollTab:CreateSection("TROLLING")
 
-    local Button = Tab:CreateButton({
+    local Button = TrollTab:CreateButton({
    Name = "Trolling Button",
    Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/ScriptHub/refs/heads/main/lmao"))()
