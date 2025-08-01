@@ -1,0 +1,195 @@
+if identifyexecutor and identifyexecutor():lower():find("Hydrogen") then
+else
+
+    print ("If your seeing this message then that means this Script worked!")
+    print ("Thanks for using 👑 Show Hub 👑")
+
+function chat(msg)
+   if game.ReplicatedStorage:FindFirstChild('DefaultChatSystemChatEvents') then
+       game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+   else
+       game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+   end
+end
+
+chat("Thanks for using 👑 Show Hub 👑")
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+   Name = "👑 Show Hub 👑",
+   Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   LoadingTitle = "👑 Show Hub 👑 ",
+   LoadingSubtitle = "by K!ng_Show",
+   OpenText = "👑 Show Hub 👑", -- for mobile users to unhide rayfield, change if you'd like
+   Theme = "Default", -- Check https://[Log in to view URL]
+
+   ToggleUIKeybind = "K", -- The keybind to toggle the UI visibility (string like "K" or Enum.KeyCode)
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
+
+   ConfigurationSaving = {
+      Enabled = false,
+      FolderName = nil, -- Create a custom folder for your hub/game
+      FileName = "👑 Show Hub 👑"
+   },
+
+   Discord = {
+      Enabled = true, -- Prompt the user to join your Discord server if their executor supports it
+      Invite = "46eDMh8623", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+
+   KeySystem = true, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "👑 Show Hub 👑 | KeySystem",
+      Subtitle = "Join Discord for Key",
+      Note = "Join Discord for Key!", -- Use this to tell the user how to get a key
+      FileName = "👑 Show Hub 👑 | KeySystem ", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"https://raw.githubusercontent.com/King-Sho/ScriptHub/refs/heads/main/key"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+
+local CredTab = Window:CreateTab("📝 Credits", nil) -- Title, Image
+local CredSection = CredTab:CreateSection("📝 Credits")
+
+        local Button = CredTab:CreateButton({
+   Name = "My Discord Server (CLICK THIS TO COPY)",
+   Callback = function()
+        setclipboard("https://discord.gg/46eDMh8623")
+toclipboard("https://discord.gg/46eDMh8623")
+        Rayfield:Notify({
+   Title = "DISCORD COPIED TO CLIPBOARD",
+   Content = "👑 Show Hub 👑",
+   Duration = 5,
+   Image = nil,
+})
+
+        
+   end,
+})
+
+local MainTab = Window:CreateTab("👑 Main", nil) -- Title, Image
+local MainSection = MainTab:CreateSection("💯 Best Feautures")
+
+Rayfield:Notify({
+   Title = "Script Executed!",
+   Content = "👑 Show Hub 👑",
+   Duration = 5,
+   Image = nil,
+})
+
+Rayfield:Notify({
+   Title = "USE KEYBIND K TO TOGGLE MENU ON/OFF",
+   Content = "👑 Show Hub 👑",
+   Duration = 5,
+   Image = nil,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "⬆️ Infinite Jump",
+   Callback = function()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/InfiniteJump"))()
+        Rayfield:Notify({
+   Title = "You now have Infinite Jump",
+   Content = "👑 Show Hub 👑",
+   Duration = 4,
+   Image = nil,
+})
+   end,
+})
+
+local Slider = MainTab:CreateSlider({
+   Name = "🏃 Walkspeed",
+   Range = {16, 500},
+   Increment = 1,
+   Suffix = "Speed",
+   CurrentValue = 16,
+   Flag = "fast", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+   Callback = function(Value)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = (Value)
+   end,
+})
+
+local Slider = MainTab:CreateSlider({
+   Name = "JumpPower",
+   Range = {50, 500},
+   Increment = 10,
+   Suffix = "Jump",
+   CurrentValue = 50,
+   Flag = "High", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+   Callback = function(Value)
+       game.Players.LocalPlayer.Character.Humanoid.JumpPower = (Value)
+   end,
+})
+
+    local Button = MainTab:CreateButton({
+   Name = "Fly Gui V3",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/FlyGui"))()
+        Rayfield:Notify({
+   Title = "You're now Flying!",
+   Content = "👑 Show Hub 👑",
+   Duration = 4,
+   Image = nil,
+})
+    end,
+})
+
+        local Button = MainTab:CreateButton({
+   Name = "Become Transparent (RESET to be Normal)",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/transparency_script"))()
+        Rayfield:Notify({
+   Title = "You're now Invisible!",
+   Content = "👑 Show Hub 👑",
+   Duration = 4,
+   Image = nil,
+})
+   end,
+})
+
+local TrollTab = Window:CreateTab("TROLLING", nil) -- Title, Image
+local TrollSection = TrollTab:CreateSection("TROLLING")
+
+    local Button = Tab:CreateButton({
+   Name = "Trolling Button",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/ScriptHub/refs/heads/main/lmao"))()
+   end,
+})
+
+local MiscTab = Window:CreateTab("🎲 Misc", nil) -- Title, Image
+local MiscSection = MiscTab:CreateSection("Universal Scripts")
+
+local Button = MiscTab:CreateButton({
+   Name = "Infinite Yield",
+   Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+   end,
+})
+
+local Button = MiscTab:CreateButton({
+   Name = "Dex Explorer V3",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
+   end,
+})
+
+local Button = MiscTab:CreateButton({
+   Name = "Owl Hub (Aimbot, ESP, etc)",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+   end,
+})
+
+local Button = MiscTab:CreateButton({
+   Name = "RemoteSpy V3",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpySource.lua"))()
+   end,
+})
+end
