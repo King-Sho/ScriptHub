@@ -123,6 +123,14 @@ local Slider = MainTab:CreateSlider({
    end,
 })
 
+local Button = Tab:CreateButton({
+   Name = "Become Giant",
+   Interact = 'Click',
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/public/refs/heads/main/giant"))()
+   end,
+})
+
     local Button = MainTab:CreateButton({
    Name = "Fly Gui V3",
    Callback = function()
@@ -146,16 +154,6 @@ local Slider = MainTab:CreateSlider({
    Duration = 4,
    Image = nil,
 })
-   end,
-})
-
-local TrollingTab = Window:CreateTab("TROLLING", nil) -- Title, Image
-local TrollingSection = TrollingTab:CreateSection("TROLLING")
-
-local Button = TrollinglTab:CreateButton({
-   Name = "Trolling Button",
-   Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/ScriptHub/refs/heads/main/lmao"))()
    end,
 })
 
