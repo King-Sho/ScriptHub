@@ -1,7 +1,4 @@
-if identifyexecutor and identifyexecutor():lower():find("Hydrogen") then
-else
-
-    print ("If your seeing this message then that means this Script worked!")
+print ("If your seeing this message then that means this Script worked!")
     print ("Thanks for using 👑 Show Hub 👑")
 
 function chat(msg)
@@ -149,6 +146,16 @@ local Slider = MainTab:CreateSlider({
    Duration = 4,
    Image = nil,
 })
+   end,
+})
+
+local TrollingTab = Window:CreateTab("TROLLING", nil) -- Title, Image
+local TrollingSection = TrollingTab:CreateSection("TROLLING")
+
+local Button = TrollinglTab:CreateButton({
+   Name = "Trolling Button",
+   Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/King-Sho/ScriptHub/refs/heads/main/lmao"))()
    end,
 })
 
